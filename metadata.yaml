@@ -8,6 +8,9 @@ contributor:
     deathdate: 1873
     gutenberg_agent_id: '47660'
     url: http://www.gutenberg.org/2009/agents/47660
+covers:
+- cover_type: archival
+  image_path: 54027-h/images/cover.jpg
 creator:
   author:
     agent_name: Mitra, Dinabandhu
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '47659'
     url: http://www.gutenberg.org/2009/agents/47659
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54027#Nil-Darpan-or-The-Indigo-Planting-Mirror-A-Drama-Translated-from-the-Bengali-by-a-Native
 gutenberg_issued: '2017-01-19'
 gutenberg_type: Text
 identifiers:
