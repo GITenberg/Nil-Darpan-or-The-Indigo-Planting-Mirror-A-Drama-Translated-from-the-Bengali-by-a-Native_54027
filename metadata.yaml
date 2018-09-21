@@ -1,0 +1,37 @@
+_repo: Nil-Darpan-or-The-Indigo-Planting-Mirror-A-Drama-Translated-from-the-Bengali-by-a-Native_54027
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dutt, Michael Madhusudan
+    alias: Datta, Madhusudan
+    birthdate: 1824
+    deathdate: 1873
+    gutenberg_agent_id: '47660'
+    url: http://www.gutenberg.org/2009/agents/47660
+creator:
+  author:
+    agent_name: Mitra, Dinabandhu
+    aliases:
+    - Dinabandhu Mitra
+    - Mitra, Dinobandhu
+    - Dinobandhu Mitra
+    birthdate: 1829
+    deathdate: 1874
+    gutenberg_agent_id: '47659'
+    url: http://www.gutenberg.org/2009/agents/47659
+description: ''
+gutenberg_issued: '2017-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54027'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indigo industry -- India -- Bengal -- Drama'
+- !lcc 'PK'
+- GITenberg
+title: "Nil Darpan; or, The Indigo Planting Mirror, A Drama.\r\nTranslated from the\
+  \ Bengali by a Native."
+url: http://www.gutenberg.org/ebooks/54027
